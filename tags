@@ -197,7 +197,7 @@ getClassAttribute	dist/test_reports/tests/test/js/report.js	/^    function getCl
 getLabelForCheckBox	build/reports/tests/test/js/report.js	/^    function getLabelForCheckBox() {$/;"	f
 getLabelForCheckBox	dist/test_reports/tests/test/js/report.js	/^    function getLabelForCheckBox() {$/;"	f
 getName	src/main/java/hello/Greeter.java	/^  public String getName() $/;"	m	class:Greeter
-gradle.version	.gradle/buildOutputCleanup/cache.properties	/^gradle.version=6.2.2$/;"	k
+gradle.version	.gradle/buildOutputCleanup/cache.properties	/^gradle.version=4.10.2$/;"	k
 h1	build/reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
 h1	dist/test_reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
 h2	build/reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
@@ -245,6 +245,7 @@ tabs	build/reports/tests/test/js/report.js	/^    var tabs = {};$/;"	v
 tabs	dist/test_reports/tests/test/js/report.js	/^    var tabs = {};$/;"	v
 testGreeter	src/test/java/hello/TestGreeter.java	/^   public void testGreeter() $/;"	m	class:TestGreeter
 testGreeterEmpty	src/test/java/hello/TestGreeter.java	/^   public void testGreeterEmpty() $/;"	m	class:TestGreeter
+testGreeterMyName	src/test/java/hello/TestGreeter.java	/^   public void testGreeterMyName()$/;"	m	class:TestGreeter
 toggleLineWrapping	build/reports/tests/test/js/report.js	/^    function toggleLineWrapping() {$/;"	f
 toggleLineWrapping	dist/test_reports/tests/test/js/report.js	/^    function toggleLineWrapping() {$/;"	f
 ul	build/reports/tests/test/css/base-style.css	/^ul {$/;"	s
