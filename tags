@@ -1,0 +1,275 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/84dbaf5/
+#content	build/reports/tests/test/css/base-style.css	/^#content {$/;"	i
+#content	dist/test_reports/tests/test/css/base-style.css	/^#content {$/;"	i
+#content h1	build/reports/tests/test/css/base-style.css	/^#content h1 {$/;"	s
+#content h1	dist/test_reports/tests/test/css/base-style.css	/^#content h1 {$/;"	s
+#duration	build/reports/tests/test/css/style.css	/^#duration {$/;"	i
+#duration	dist/test_reports/tests/test/css/style.css	/^#duration {$/;"	i
+#footer	build/reports/tests/test/css/base-style.css	/^#footer {$/;"	i
+#footer	build/reports/tests/test/css/base-style.css	/^#footer, #footer a {$/;"	i
+#footer	dist/test_reports/tests/test/css/base-style.css	/^#footer {$/;"	i
+#footer	dist/test_reports/tests/test/css/base-style.css	/^#footer, #footer a {$/;"	i
+#footer a	build/reports/tests/test/css/base-style.css	/^#footer, #footer a {$/;"	s
+#footer a	dist/test_reports/tests/test/css/base-style.css	/^#footer, #footer a {$/;"	s
+#label-for-line-wrapping-toggle	build/reports/tests/test/css/base-style.css	/^#label-for-line-wrapping-toggle {$/;"	i
+#label-for-line-wrapping-toggle	dist/test_reports/tests/test/css/base-style.css	/^#label-for-line-wrapping-toggle {$/;"	i
+#line-wrapping-toggle	build/reports/tests/test/css/base-style.css	/^#line-wrapping-toggle {$/;"	i
+#line-wrapping-toggle	dist/test_reports/tests/test/css/base-style.css	/^#line-wrapping-toggle {$/;"	i
+#successRate	build/reports/tests/test/css/style.css	/^#successRate {$/;"	i
+#successRate	build/reports/tests/test/css/style.css	/^#successRate, .summaryGroup {$/;"	i
+#successRate	dist/test_reports/tests/test/css/style.css	/^#successRate {$/;"	i
+#successRate	dist/test_reports/tests/test/css/style.css	/^#successRate, .summaryGroup {$/;"	i
+#successRate .percent	build/reports/tests/test/css/style.css	/^#successRate .percent {$/;"	c
+#successRate .percent	dist/test_reports/tests/test/css/style.css	/^#successRate .percent {$/;"	c
+#successRate.failures	build/reports/tests/test/css/style.css	/^div.failures, #successRate.failures {$/;"	c
+#successRate.failures	dist/test_reports/tests/test/css/style.css	/^div.failures, #successRate.failures {$/;"	c
+#successRate.success	build/reports/tests/test/css/style.css	/^div.success, #successRate.success {$/;"	c
+#successRate.success	dist/test_reports/tests/test/css/style.css	/^div.success, #successRate.success {$/;"	c
+#summary	build/reports/tests/test/css/style.css	/^#summary {$/;"	i
+#summary	dist/test_reports/tests/test/css/style.css	/^#summary {$/;"	i
+#summary table	build/reports/tests/test/css/style.css	/^#summary table {$/;"	s
+#summary table	dist/test_reports/tests/test/css/style.css	/^#summary table {$/;"	s
+#summary td	build/reports/tests/test/css/style.css	/^#summary td {$/;"	s
+#summary td	dist/test_reports/tests/test/css/style.css	/^#summary td {$/;"	s
+.breadcrumbs	build/reports/tests/test/css/style.css	/^.breadcrumbs, .breadcrumbs a {$/;"	c
+.breadcrumbs	dist/test_reports/tests/test/css/style.css	/^.breadcrumbs, .breadcrumbs a {$/;"	c
+.breadcrumbs a	build/reports/tests/test/css/style.css	/^.breadcrumbs, .breadcrumbs a {$/;"	s
+.breadcrumbs a	dist/test_reports/tests/test/css/style.css	/^.breadcrumbs, .breadcrumbs a {$/;"	s
+.counter	build/reports/tests/test/css/style.css	/^.counter, .percent {$/;"	c
+.counter	dist/test_reports/tests/test/css/style.css	/^.counter, .percent {$/;"	c
+.failures	build/reports/tests/test/css/style.css	/^.failures, .failures a {$/;"	c
+.failures	dist/test_reports/tests/test/css/style.css	/^.failures, .failures a {$/;"	c
+.failures a	build/reports/tests/test/css/style.css	/^.failures, .failures a {$/;"	s
+.failures a	dist/test_reports/tests/test/css/style.css	/^.failures, .failures a {$/;"	s
+.infoBox	build/reports/tests/test/css/style.css	/^.infoBox {$/;"	c
+.infoBox	dist/test_reports/tests/test/css/style.css	/^.infoBox {$/;"	c
+.infoBox p	build/reports/tests/test/css/style.css	/^.infoBox p {$/;"	s
+.infoBox p	dist/test_reports/tests/test/css/style.css	/^.infoBox p {$/;"	s
+.percent	build/reports/tests/test/css/style.css	/^.counter, .percent {$/;"	c
+.percent	dist/test_reports/tests/test/css/style.css	/^.counter, .percent {$/;"	c
+.skipped	build/reports/tests/test/css/style.css	/^.skipped, .skipped a {$/;"	c
+.skipped	dist/test_reports/tests/test/css/style.css	/^.skipped, .skipped a {$/;"	c
+.skipped a	build/reports/tests/test/css/style.css	/^.skipped, .skipped a {$/;"	s
+.skipped a	dist/test_reports/tests/test/css/style.css	/^.skipped, .skipped a {$/;"	s
+.success	build/reports/tests/test/css/style.css	/^.success, .success a {$/;"	c
+.success	dist/test_reports/tests/test/css/style.css	/^.success, .success a {$/;"	c
+.success a	build/reports/tests/test/css/style.css	/^.success, .success a {$/;"	s
+.success a	dist/test_reports/tests/test/css/style.css	/^.success, .success a {$/;"	s
+.summaryGroup	build/reports/tests/test/css/style.css	/^#successRate, .summaryGroup {$/;"	c
+.summaryGroup	dist/test_reports/tests/test/css/style.css	/^#successRate, .summaryGroup {$/;"	c
+4NT_args	gradlew.bat	/^:4NT_args$/;"	l
+:tasks	README.md	/^:tasks$/;"	s
+APP_BASE_NAME	build/scripts/HelloWorld.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_BASE_NAME	gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	build/scripts/HelloWorld.bat	/^for %%i in ("%APP_HOME%") do set APP_HOME=%%~fi$/;"	v
+APP_HOME	build/scripts/HelloWorld.bat	/^set APP_HOME=%DIRNAME%..$/;"	v
+APP_HOME	gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+All tasks runnable from root project	README.md	/^All tasks runnable from root project$/;"	s
+Build Java code	README.md	/^### Build Java code$/;"	S
+Build Setup tasks	README.md	/^Build Setup tasks$/;"	s
+Build your project with Gradle Wrapper	README.md	/^### Build your project with Gradle Wrapper$/;"	S
+Building and creating a Distribution of A Java Project with Gradle	README.md	/^# Building and creating a Distribution of A Java Project with Gradle$/;"	c
+CLASSPATH	build/scripts/HelloWorld.bat	/^set CLASSPATH=%APP_HOME%\\lib\\jb-hello-world-0.1.0.jar;%APP_HOME%\\lib\\joda-time-2.2.jar$/;"	v
+CLASSPATH	gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CMD_LINE_ARGS	build/scripts/HelloWorld.bat	/^set CMD_LINE_ARGS=$/;"	v
+CMD_LINE_ARGS	build/scripts/HelloWorld.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%\$$/;"	v
+Classes	build/reports/tests/test/index.html	/^<h2>Classes<\/h2>$/;"	i
+Classes	build/reports/tests/test/packages/hello.html	/^<h2>Classes<\/h2>$/;"	i
+Classes	dist/test_reports/tests/test/index.html	/^<h2>Classes<\/h2>$/;"	i
+Classes	dist/test_reports/tests/test/packages/hello.html	/^<h2>Classes<\/h2>$/;"	i
+Create the directory structure	README.md	/^##### Create the directory structure$/;"	T
+DEFAULT_JVM_OPTS	build/scripts/HelloWorld.bat	/^set DEFAULT_JVM_OPTS=$/;"	v
+DEFAULT_JVM_OPTS	gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	v
+DIRNAME	build/scripts/HelloWorld.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	build/scripts/HelloWorld.bat	/^set DIRNAME=%~dp0$/;"	v
+DIRNAME	gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+Declare dependencies	README.md	/^### Declare dependencies$/;"	S
+Find out what Gradle can do	README.md	/^#### Find out what Gradle can do$/;"	t
+Greeter	src/main/java/hello/Greeter.java	/^public class Greeter {$/;"	c
+HelloWorld	src/main/java/hello/HelloWorld.java	/^public class HelloWorld $/;"	c
+Help tasks	README.md	/^Help tasks$/;"	s
+Install Gradle	README.md	/^### Install Gradle$/;"	S
+JAVA_EXE	build/scripts/HelloWorld.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	build/scripts/HelloWorld.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	build/scripts/HelloWorld.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+JAVA_HOME	gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+Package hello	build/reports/tests/test/packages/hello.html	/^<h1>Package hello<\/h1>$/;"	h
+Package hello	dist/test_reports/tests/test/packages/hello.html	/^<h1>Package hello<\/h1>$/;"	h
+Packages	build/reports/tests/test/index.html	/^<h2>Packages<\/h2>$/;"	i
+Packages	dist/test_reports/tests/test/index.html	/^<h2>Packages<\/h2>$/;"	i
+Set up the project	README.md	/^### Set up the project$/;"	S
+Test Summary	build/reports/tests/test/index.html	/^<h1>Test Summary<\/h1>$/;"	h
+Test Summary	dist/test_reports/tests/test/index.html	/^<h1>Test Summary<\/h1>$/;"	h
+TestGreeter	build/reports/tests/test/classes/hello.TestGreeter.html	/^<h1>TestGreeter<\/h1>$/;"	h
+TestGreeter	dist/test_reports/tests/test/classes/hello.TestGreeter.html	/^<h1>TestGreeter<\/h1>$/;"	h
+TestGreeter	src/test/java/hello/TestGreeter.java	/^public class TestGreeter {$/;"	c
+Tests	build/reports/tests/test/classes/hello.TestGreeter.html	/^<h2>Tests<\/h2>$/;"	i
+Tests	dist/test_reports/tests/test/classes/hello.TestGreeter.html	/^<h2>Tests<\/h2>$/;"	i
+This guide walks you through using Gradle to build a simple Java project.	README.md	/^##### This guide walks you through using Gradle to build a simple Java project.$/;"	T
+To test the Gradle installation, run Gradle from the command-line: `gradle`	README.md	/^### To test the Gradle installation, run Gradle from the command-line: `gradle`$/;"	S
+What you’ll need	README.md	/^### What you’ll need$/;"	S
+_SKIP	build/scripts/HelloWorld.bat	/^set _SKIP=2$/;"	v
+_SKIP	gradlew.bat	/^set _SKIP=2$/;"	v
+a	build/reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+a	dist/test_reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+a:visited	build/reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+a:visited	dist/test_reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+addClass	build/reports/tests/test/js/report.js	/^    function addClass(element, classValue) {$/;"	f
+addClass	dist/test_reports/tests/test/js/report.js	/^    function addClass(element, classValue) {$/;"	f
+body	build/reports/tests/test/css/base-style.css	/^body {$/;"	s
+body	build/reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+body	dist/test_reports/tests/test/css/base-style.css	/^body {$/;"	s
+body	dist/test_reports/tests/test/css/base-style.css	/^body, a, a:visited {$/;"	s
+changeElementClass	build/reports/tests/test/js/report.js	/^    function changeElementClass(element, classValue) {$/;"	f
+changeElementClass	dist/test_reports/tests/test/js/report.js	/^    function changeElementClass(element, classValue) {$/;"	f
+deselectAll	build/reports/tests/test/js/report.js	/^    function deselectAll() {$/;"	f
+deselectAll	dist/test_reports/tests/test/js/report.js	/^    function deselectAll() {$/;"	f
+die	build/scripts/HelloWorld	/^die () {$/;"	f
+die	gradlew	/^die ( ) {$/;"	f
+distributionBase	gradle/wrapper/gradle-wrapper.properties	/^distributionBase=GRADLE_USER_HOME$/;"	k
+distributionPath	gradle/wrapper/gradle-wrapper.properties	/^distributionPath=wrapper\/dists$/;"	k
+distributionUrl	gradle/wrapper/gradle-wrapper.properties	/^distributionUrl=https\\:\/\/services.gradle.org\/distributions\/gradle-4.10.2-bin.zip$/;"	k
+div.deselected	build/reports/tests/test/css/base-style.css	/^div.deselected {$/;"	c
+div.deselected	dist/test_reports/tests/test/css/base-style.css	/^div.deselected {$/;"	c
+div.failures	build/reports/tests/test/css/style.css	/^div.failures, #successRate.failures {$/;"	c
+div.failures	dist/test_reports/tests/test/css/style.css	/^div.failures, #successRate.failures {$/;"	c
+div.selected	build/reports/tests/test/css/base-style.css	/^div.selected {$/;"	c
+div.selected	dist/test_reports/tests/test/css/base-style.css	/^div.selected {$/;"	c
+div.success	build/reports/tests/test/css/style.css	/^div.success, #successRate.success {$/;"	c
+div.success	dist/test_reports/tests/test/css/style.css	/^div.success, #successRate.success {$/;"	c
+div.tab	build/reports/tests/test/css/base-style.css	/^div.tab {$/;"	c
+div.tab	dist/test_reports/tests/test/css/base-style.css	/^div.tab {$/;"	c
+div.tab table	build/reports/tests/test/css/base-style.css	/^div.tab table {$/;"	s
+div.tab table	build/reports/tests/test/css/base-style.css	/^div.tab th, div.tab table {$/;"	s
+div.tab table	dist/test_reports/tests/test/css/base-style.css	/^div.tab table {$/;"	s
+div.tab table	dist/test_reports/tests/test/css/base-style.css	/^div.tab th, div.tab table {$/;"	s
+div.tab td	build/reports/tests/test/css/base-style.css	/^div.tab td {$/;"	s
+div.tab td	dist/test_reports/tests/test/css/base-style.css	/^div.tab td {$/;"	s
+div.tab td.numeric	build/reports/tests/test/css/base-style.css	/^div.tab td.numeric, div.tab th.numeric {$/;"	c
+div.tab td.numeric	dist/test_reports/tests/test/css/base-style.css	/^div.tab td.numeric, div.tab th.numeric {$/;"	c
+div.tab td:first-child	build/reports/tests/test/css/base-style.css	/^div.tab td:first-child {$/;"	s
+div.tab td:first-child	dist/test_reports/tests/test/css/base-style.css	/^div.tab td:first-child {$/;"	s
+div.tab th	build/reports/tests/test/css/base-style.css	/^div.tab th {$/;"	s
+div.tab th	build/reports/tests/test/css/base-style.css	/^div.tab th, div.tab table {$/;"	s
+div.tab th	dist/test_reports/tests/test/css/base-style.css	/^div.tab th {$/;"	s
+div.tab th	dist/test_reports/tests/test/css/base-style.css	/^div.tab th, div.tab table {$/;"	s
+div.tab th.numeric	build/reports/tests/test/css/base-style.css	/^div.tab td.numeric, div.tab th.numeric {$/;"	c
+div.tab th.numeric	dist/test_reports/tests/test/css/base-style.css	/^div.tab td.numeric, div.tab th.numeric {$/;"	c
+div.tab th:first-child	build/reports/tests/test/css/base-style.css	/^div.tab th:first-child {$/;"	s
+div.tab th:first-child	dist/test_reports/tests/test/css/base-style.css	/^div.tab th:first-child {$/;"	s
+end	build/scripts/HelloWorld.bat	/^:end$/;"	l
+end	gradlew.bat	/^:end$/;"	l
+execute	build/scripts/HelloWorld.bat	/^:execute$/;"	l
+execute	gradlew.bat	/^:execute$/;"	l
+fail	build/scripts/HelloWorld.bat	/^:fail$/;"	l
+fail	gradlew.bat	/^:fail$/;"	l
+findChildElements	build/reports/tests/test/js/report.js	/^    function findChildElements(container, name, targetClass) {$/;"	f
+findChildElements	dist/test_reports/tests/test/js/report.js	/^    function findChildElements(container, name, targetClass) {$/;"	f
+findCodeBlocks	build/reports/tests/test/js/report.js	/^    function findCodeBlocks() {$/;"	f
+findCodeBlocks	dist/test_reports/tests/test/js/report.js	/^    function findCodeBlocks() {$/;"	f
+findHeaders	build/reports/tests/test/js/report.js	/^    function findHeaders(container) {$/;"	f
+findHeaders	dist/test_reports/tests/test/js/report.js	/^    function findHeaders(container) {$/;"	f
+findJavaFromJavaHome	build/scripts/HelloWorld.bat	/^:findJavaFromJavaHome$/;"	l
+findJavaFromJavaHome	gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+findTabs	build/reports/tests/test/js/report.js	/^    function findTabs(container) {$/;"	f
+findTabs	dist/test_reports/tests/test/js/report.js	/^    function findTabs(container) {$/;"	f
+findTitles	build/reports/tests/test/js/report.js	/^    function findTitles(tabs) {$/;"	f
+findTitles	dist/test_reports/tests/test/js/report.js	/^    function findTitles(tabs) {$/;"	f
+forAllCodeBlocks	build/reports/tests/test/js/report.js	/^    function forAllCodeBlocks(operation) {$/;"	f
+forAllCodeBlocks	dist/test_reports/tests/test/js/report.js	/^    function forAllCodeBlocks(operation) {$/;"	f
+g	src/test/java/hello/TestGreeter.java	/^   private Greeter g = new Greeter();$/;"	f	class:TestGreeter	file:
+getCheckBox	build/reports/tests/test/js/report.js	/^    function getCheckBox() {$/;"	f
+getCheckBox	dist/test_reports/tests/test/js/report.js	/^    function getCheckBox() {$/;"	f
+getClassAttribute	build/reports/tests/test/js/report.js	/^    function getClassAttribute(element) {$/;"	f
+getClassAttribute	dist/test_reports/tests/test/js/report.js	/^    function getClassAttribute(element) {$/;"	f
+getLabelForCheckBox	build/reports/tests/test/js/report.js	/^    function getLabelForCheckBox() {$/;"	f
+getLabelForCheckBox	dist/test_reports/tests/test/js/report.js	/^    function getLabelForCheckBox() {$/;"	f
+getName	src/main/java/hello/Greeter.java	/^  public String getName() $/;"	m	class:Greeter
+gradle.version	.gradle/buildOutputCleanup/cache.properties	/^gradle.version=6.2.2$/;"	k
+h1	build/reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+h1	dist/test_reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+h2	build/reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+h2	build/reports/tests/test/css/base-style.css	/^h2 {$/;"	s
+h2	dist/test_reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+h2	dist/test_reports/tests/test/css/base-style.css	/^h2 {$/;"	s
+h3	build/reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+h3	dist/test_reports/tests/test/css/base-style.css	/^h1, h2, h3 {$/;"	s
+hello	src/main/java/hello/Greeter.java	/^package hello;$/;"	p
+hello	src/main/java/hello/HelloWorld.java	/^package hello;$/;"	p
+hello	src/test/java/hello/TestGreeter.java	/^package hello;$/;"	p
+init	build/scripts/HelloWorld.bat	/^:init$/;"	l
+init	gradlew.bat	/^:init$/;"	l
+initControls	build/reports/tests/test/js/report.js	/^    function initControls() {$/;"	f
+initControls	dist/test_reports/tests/test/js/report.js	/^    function initControls() {$/;"	f
+initTabs	build/reports/tests/test/js/report.js	/^    function initTabs() {$/;"	f
+initTabs	dist/test_reports/tests/test/js/report.js	/^    function initTabs() {$/;"	f
+label.hidden	build/reports/tests/test/css/base-style.css	/^label.hidden {$/;"	c
+label.hidden	dist/test_reports/tests/test/css/base-style.css	/^label.hidden {$/;"	c
+main	src/main/java/hello/HelloWorld.java	/^  public static void main(String[] args) {$/;"	m	class:HelloWorld
+mainEnd	build/scripts/HelloWorld.bat	/^:mainEnd$/;"	l
+mainEnd	gradlew.bat	/^:mainEnd$/;"	l
+name	src/main/java/hello/Greeter.java	/^  private String name = "";$/;"	f	class:Greeter	file:
+omega	build/scripts/HelloWorld.bat	/^:omega$/;"	l
+omega	gradlew.bat	/^:omega$/;"	l
+onload	build/reports/tests/test/js/report.js	/^    window.onload = function() {$/;"	f	function:window
+onload	dist/test_reports/tests/test/js/report.js	/^    window.onload = function() {$/;"	f	function:window
+removeClass	build/reports/tests/test/js/report.js	/^    function removeClass(element, classValue) {$/;"	f
+removeClass	dist/test_reports/tests/test/js/report.js	/^    function removeClass(element, classValue) {$/;"	f
+save	build/scripts/HelloWorld	/^save () {$/;"	f
+sayHello	src/main/java/hello/Greeter.java	/^  public String sayHello() $/;"	m	class:Greeter
+select	build/reports/tests/test/js/report.js	/^    function select(i) {$/;"	c
+select	dist/test_reports/tests/test/js/report.js	/^    function select(i) {$/;"	c
+setName	src/main/java/hello/Greeter.java	/^  public void setName(String name) $/;"	m	class:Greeter
+span.code	build/reports/tests/test/css/base-style.css	/^span.code {$/;"	c
+span.code	dist/test_reports/tests/test/css/base-style.css	/^span.code {$/;"	c
+span.code pre	build/reports/tests/test/css/base-style.css	/^span.code pre {$/;"	s
+span.code pre	dist/test_reports/tests/test/css/base-style.css	/^span.code pre {$/;"	s
+span.wrapped pre	build/reports/tests/test/css/base-style.css	/^span.wrapped pre {$/;"	s
+span.wrapped pre	dist/test_reports/tests/test/css/base-style.css	/^span.wrapped pre {$/;"	s
+splitJvmOpts	gradlew	/^function splitJvmOpts() {$/;"	f
+switchTab	build/reports/tests/test/js/report.js	/^    function switchTab() {$/;"	f
+switchTab	dist/test_reports/tests/test/js/report.js	/^    function switchTab() {$/;"	f
+tabs	build/reports/tests/test/js/report.js	/^    var tabs = {};$/;"	v
+tabs	dist/test_reports/tests/test/js/report.js	/^    var tabs = {};$/;"	v
+testGreeter	src/test/java/hello/TestGreeter.java	/^   public void testGreeter() $/;"	m	class:TestGreeter
+testGreeterEmpty	src/test/java/hello/TestGreeter.java	/^   public void testGreeterEmpty() $/;"	m	class:TestGreeter
+toggleLineWrapping	build/reports/tests/test/js/report.js	/^    function toggleLineWrapping() {$/;"	f
+toggleLineWrapping	dist/test_reports/tests/test/js/report.js	/^    function toggleLineWrapping() {$/;"	f
+ul	build/reports/tests/test/css/base-style.css	/^ul {$/;"	s
+ul	dist/test_reports/tests/test/css/base-style.css	/^ul {$/;"	s
+ul.linkList	build/reports/tests/test/css/style.css	/^ul.linkList {$/;"	c
+ul.linkList	dist/test_reports/tests/test/css/style.css	/^ul.linkList {$/;"	c
+ul.linkList li	build/reports/tests/test/css/style.css	/^ul.linkList li {$/;"	s
+ul.linkList li	dist/test_reports/tests/test/css/style.css	/^ul.linkList li {$/;"	s
+ul.tabLinks	build/reports/tests/test/css/base-style.css	/^ul.tabLinks {$/;"	c
+ul.tabLinks	dist/test_reports/tests/test/css/base-style.css	/^ul.tabLinks {$/;"	c
+ul.tabLinks a	build/reports/tests/test/css/base-style.css	/^ul.tabLinks a {$/;"	s
+ul.tabLinks a	dist/test_reports/tests/test/css/base-style.css	/^ul.tabLinks a {$/;"	s
+ul.tabLinks li	build/reports/tests/test/css/base-style.css	/^ul.tabLinks li {$/;"	s
+ul.tabLinks li	dist/test_reports/tests/test/css/base-style.css	/^ul.tabLinks li {$/;"	s
+ul.tabLinks li h2	build/reports/tests/test/css/base-style.css	/^ul.tabLinks li h2 {$/;"	s
+ul.tabLinks li h2	dist/test_reports/tests/test/css/base-style.css	/^ul.tabLinks li h2 {$/;"	s
+ul.tabLinks li.selected	build/reports/tests/test/css/base-style.css	/^ul.tabLinks li.selected {$/;"	c
+ul.tabLinks li.selected	dist/test_reports/tests/test/css/base-style.css	/^ul.tabLinks li.selected {$/;"	c
+ul.tabLinks li:hover	build/reports/tests/test/css/base-style.css	/^ul.tabLinks li:hover {$/;"	s
+ul.tabLinks li:hover	dist/test_reports/tests/test/css/base-style.css	/^ul.tabLinks li:hover {$/;"	s
+warn	build/scripts/HelloWorld	/^warn () {$/;"	f
+warn	gradlew	/^warn ( ) {$/;"	f
+win9xME_args	build/scripts/HelloWorld.bat	/^:win9xME_args$/;"	l
+win9xME_args	gradlew.bat	/^:win9xME_args$/;"	l
+win9xME_args_slurp	build/scripts/HelloWorld.bat	/^:win9xME_args_slurp$/;"	l
+win9xME_args_slurp	gradlew.bat	/^:win9xME_args_slurp$/;"	l
+zipStoreBase	gradle/wrapper/gradle-wrapper.properties	/^zipStoreBase=GRADLE_USER_HOME$/;"	k
+zipStorePath	gradle/wrapper/gradle-wrapper.properties	/^zipStorePath=wrapper\/dists$/;"	k
